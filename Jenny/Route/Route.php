@@ -4,7 +4,7 @@
  * Jenny - a micro PHP 5 framework.
  * 
  * @package Jenny\Route
- * @auther Jenny Tang
+ * @author Jenny Tang
  * @copyright (c) 2013,Jenny Tang 
  * @since 0.0.1
  */
